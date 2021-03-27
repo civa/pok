@@ -5,12 +5,12 @@ const farms: FarmConfig[] = [
   {
     pid: 0,
     risk: 5,
-    lpSymbol: 'EGG-BNB LP',
+    lpSymbol: 'HAWK-BNB LP',
     lpAddresses: {
       97: '',
       56: '0x6351e966863ea2091b505c26d5d825ab7d5cdd44',
     },
-    tokenSymbol: 'EGG',
+    tokenSymbol: 'HAWK',
     tokenAddresses: {
       97: '',
       56: '0x8ad065b621735b45ec7386335fdf55a4005ec6e0',
