@@ -8,22 +8,6 @@ const farms: FarmConfig[] = [
     lpSymbol: 'EGG-BUSD LP',
     lpAddresses: {
       97: '',
-      56: '0x19e7cbecdd23a16dfa5573df54d98f7caae03019',
-    },
-    tokenSymbol: 'EGG',
-    tokenAddresses: {
-      97: '',
-      56: '0xf952fc3ca7325cc27d15885d37117676d25bfda6',
-    },
-    quoteTokenSymbol: QuoteToken.BUSD,
-    quoteTokenAdresses: contracts.busd,
-  },
-  {
-    pid: 1,
-    risk: 5,
-    lpSymbol: 'EGG-BNB LP',
-    lpAddresses: {
-      97: '',
       56: '0x6351e966863ea2091b505c26d5d825ab7d5cdd44',
     },
     tokenSymbol: 'EGG',
@@ -33,6 +17,22 @@ const farms: FarmConfig[] = [
     },
     quoteTokenSymbol: QuoteToken.BNB,
     quoteTokenAdresses: contracts.wbnb,
+  },
+  {
+    pid: 1,
+    risk: 5,
+    lpSymbol: 'EGG-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x19e7cbecdd23a16dfa5573df54d98f7caae03019',
+    },
+    tokenSymbol: 'EGG',
+    tokenAddresses: {
+      97: '',
+      56: '0xf952fc3ca7325cc27d15885d37117676d25bfda6',
+    },
+    quoteTokenSymbol: QuoteToken.BUSD,
+    quoteTokenAdresses: contracts.busd,
   },
   {
     pid: 2,
