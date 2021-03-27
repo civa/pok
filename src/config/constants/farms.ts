@@ -24,12 +24,12 @@ const farms: FarmConfig[] = [
     lpSymbol: 'EGG-BNB LP',
     lpAddresses: {
       97: '',
-      56: '0xd1b59d11316e87c3a0a069e80f590ba35cd8d8d3',
+      56: '0x6351e966863ea2091b505c26d5d825ab7d5cdd44',
     },
     tokenSymbol: 'EGG',
     tokenAddresses: {
       97: '',
-      56: '0xf952fc3ca7325cc27d15885d37117676d25bfda6',
+      56: '0x8ad065b621735b45ec7386335fdf55a4005ec6e0',
     },
     quoteTokenSymbol: QuoteToken.BNB,
     quoteTokenAdresses: contracts.wbnb,
