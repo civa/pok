@@ -73,22 +73,22 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Github',
-        href: 'https://github.com/goosedefi/',
+        href: 'https://github.com/hawkswap',
       },
       {
         label: 'Docs',
-        href: 'https://goosedefi.gitbook.io/goose-finance/',
+        href: '',
       },
       {
         label: 'Blog',
-        href: 'https://goosefinance.medium.com/',
+        href: '',
       },
     ],
   },
   {
-    label: 'Partnerships/IFO',
+    label: 'Partnership',
     icon: 'GooseIcon',
-    href: 'https://docs.google.com/forms/d/e/1FAIpQLSe7ycrw8Dq4C5Vjc9WNlRtTxEhFDB1Ny6jlAByZ2Y6qBo7SKg/viewform?usp=sf_link',
+    href: '',
   },
 ]
 
