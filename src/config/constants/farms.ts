@@ -19,7 +19,7 @@ const farms: FarmConfig[] = [
     quoteTokenAdresses: contracts.wbnb,
   },
   {
-    pid: 1,
+    pid: 2,
     risk: 5,
     lpSymbol: 'BSCTRUST-BUSD POOL',
     lpAddresses: {
