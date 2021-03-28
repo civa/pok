@@ -51,11 +51,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'BSCTrust Website',
-        href: 'https://',
+        href: 'https://bsctrust.finance/',
       },
       {
         label: 'Livecoinwatch',
-        href: '',
+        href: 'https://www.livecoinwatch.com/price/BSCTrustfinance-BSCTRUST',
       },
     ],
   },
