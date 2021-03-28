@@ -18,21 +18,21 @@ const farms: FarmConfig[] = [
     quoteTokenSymbol: QuoteToken.BNB,
     quoteTokenAdresses: contracts.wbnb,
   },
-  {
-    pid: 1,
-    risk: 5,
-    lpSymbol: 'BSCTRUST-BUSD POOL',
-    lpAddresses: {
-      97: '',
-      56: '0x3eD392E7c219de06F179B709F09436Fcc7142aFD',
-    },
-    tokenSymbol: 'BSCTRUST',
-    tokenAddresses: {
-      97: '',
-      56: '0xf952fc3ca7325cc27d15885d37117676d25bfda6',
-    },
-    quoteTokenSymbol: QuoteToken.BUSD,
-    quoteTokenAdresses: contracts.busd,
+//  {
+//    pid: 1,
+//    risk: 5,
+//    lpSymbol: 'BSCTRUST-BUSD POOL',
+//    lpAddresses: {
+//      97: '',
+//      56: '0x3eD392E7c219de06F179B709F09436Fcc7142aFD',
+//    },
+//    tokenSymbol: 'BSCTRUST',
+//    tokenAddresses: {
+//      97: '',
+//     56: '0xf952fc3ca7325cc27d15885d37117676d25bfda6',
+//   },
+//   quoteTokenSymbol: QuoteToken.BUSD,
+//   quoteTokenAdresses: contracts.busd,
   },
   {
     pid: 1,
