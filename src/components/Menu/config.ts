@@ -50,15 +50,11 @@ const config: MenuEntry[] = [
     icon: 'InfoIcon',
     items: [
       {
-        label: 'CoinGecko',
-        href: '',
+        label: 'BSCTrust Website',
+        href: 'https://',
       },
       {
-        label: 'CoinMarketCap',
-        href: '',
-      },
-      {
-        label: 'AstroTools',
+        label: 'Livecoinwatch',
         href: '',
       },
     ],
