@@ -72,7 +72,7 @@ const config: MenuEntry[] = [
   {
     label: 'Partnership',
     icon: 'GooseIcon',
-    href: '',
+    href: 'https://docs.google.com/forms/d/e/1FAIpQLSehFmuW7I4zxrXQYFHU7tfpQoe2CXTEiMZoddTIOYdVs71LBg/viewform?usp=sf_link',
   },
 ]
 
