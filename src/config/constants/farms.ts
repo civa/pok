@@ -8,23 +8,23 @@ const farms: FarmConfig[] = [
     lpSymbol: 'HAWK-BNB LP',
     lpAddresses: {
       97: '',
-      56: '0x6351e966863ea2091b505c26d5d825ab7d5cdd44',
+      56: '0x8eC8Db9Ebf1784b28EE081558c0B4a4c7480497B',
     },
     tokenSymbol: 'HAWK',
     tokenAddresses: {
       97: '',
-      56: '0x8ad065b621735b45ec7386335fdf55a4005ec6e0',
+      56: '0xebcfd1376d68d9b2df66561cd519c5afccd65bf0',
     },
     quoteTokenSymbol: QuoteToken.BNB,
     quoteTokenAdresses: contracts.wbnb,
   },
   {
-    pid: 1,
+    pid: 2,
     risk: 5,
     lpSymbol: 'BSCTRUST-BUSD POOL',
     lpAddresses: {
       97: '',
-      56: '0x19e7cbecdd23a16dfa5573df54d98f7caae03019',
+      56: '0x3eD392E7c219de06F179B709F09436Fcc7142aFD',
     },
     tokenSymbol: 'BSCTRUST',
     tokenAddresses: {
@@ -35,17 +35,17 @@ const farms: FarmConfig[] = [
     quoteTokenAdresses: contracts.busd,
   },
   {
-    pid: 2,
+    pid: 1,
     risk: 3,
     lpSymbol: 'HAWK-BUSD POOL',
     lpAddresses: {
       97: '',
-      56: '0x1b96b92314c44b159149f7e0303511fb2fc4774f',
+      56: '0x3eD392E7c219de06F179B709F09436Fcc7142aFD',
     },
     tokenSymbol: 'HAWK',
     tokenAddresses: {
       97: '',
-      56: '0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c',
+      56: '0xebcfd1376d68d9b2df66561cd519c5afccd65bf0',
     },
     quoteTokenSymbol: QuoteToken.BUSD,
     quoteTokenAdresses: contracts.busd,
