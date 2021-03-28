@@ -21,15 +21,15 @@ const config: MenuEntry[] = [
     ],
   },
   {
-    label: 'Farms',
+    label: 'Hunt',
     icon: 'FarmIcon',
     href: '/farms',
   },
-  {
-    label: 'Nests',
-    icon: 'PoolIcon',
-    href: '/nests',
-  },
+  //{
+  //  label: 'Nests',
+  //  icon: 'PoolIcon',
+  //  href: '/nests',
+  //},
   // {
   //   label: 'Pools',
   //   icon: 'PoolIcon',
