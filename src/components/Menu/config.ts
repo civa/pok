@@ -67,14 +67,6 @@ const config: MenuEntry[] = [
         label: 'Github',
         href: 'https://github.com/hawkswap',
       },
-      {
-        label: 'Docs',
-        href: '',
-      },
-      {
-        label: 'Blog',
-        href: '',
-      },
     ],
   },
   {
