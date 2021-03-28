@@ -123,7 +123,7 @@
     {
       "data": {
         "stringId": 320,
-        "text": "Stake LP tokens to earn EGG"
+        "text": "Stake LP tokens to earn HAWK"
       }
     },
     {
@@ -675,13 +675,13 @@
     {
       "data": {
         "stringId": 544,
-        "text": "EGG to Harvest"
+        "text": "HAWK to Harvest"
       }
     },
     {
       "data": {
         "stringId": 546,
-        "text": "EGG in Wallet"
+        "text": "HAWK in Wallet"
       }
     },
     {
@@ -1107,7 +1107,7 @@
     {
       "data": {
         "stringId": 696,
-        "text": "Stake LP tokens to earn EGG"
+        "text": "Stake LP tokens to earn HAWK"
       }
     },
     {
@@ -1209,7 +1209,7 @@
     {
       "data": {
         "stringId": 10000,
-        "text": "Deposit Fee will be used to buyback EGG"
+        "text": "Deposit Fee will be used to buyback HAWK"
       }
     },
     {
@@ -1221,7 +1221,7 @@
     {
       "data": {
         "stringId": 10002,
-        "text": "Stake tokens to earn EGG"
+        "text": "Stake tokens to earn HAWK"
       }
     },
     {
