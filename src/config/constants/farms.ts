@@ -24,12 +24,12 @@ const farms: FarmConfig[] = [
     lpSymbol: 'BSCTRUST-BUSD POOL',
     lpAddresses: {
       97: '',
-      56: '0x3eD392E7c219de06F179B709F09436Fcc7142aFD',
+      56: '0x5293D72eA9f1695C33Ea2A871b928EA1a1b73ee7',
     },
     tokenSymbol: 'BSCTRUST',
     tokenAddresses: {
       97: '',
-      56: '0xf952fc3ca7325cc27d15885d37117676d25bfda6',
+      56: '0x0684ffcc67792c50fdc303813c7b0c00d6aa6b99',
     },
     quoteTokenSymbol: QuoteToken.BUSD,
     quoteTokenAdresses: contracts.busd,
