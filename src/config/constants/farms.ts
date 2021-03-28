@@ -21,12 +21,12 @@ const farms: FarmConfig[] = [
   {
     pid: 1,
     risk: 5,
-    lpSymbol: 'EGG-BUSD LP',
+    lpSymbol: 'BSCTRUST-BUSD POOL',
     lpAddresses: {
       97: '',
       56: '0x19e7cbecdd23a16dfa5573df54d98f7caae03019',
     },
-    tokenSymbol: 'EGG',
+    tokenSymbol: 'BSCTRUST',
     tokenAddresses: {
       97: '',
       56: '0xf952fc3ca7325cc27d15885d37117676d25bfda6',
@@ -37,12 +37,12 @@ const farms: FarmConfig[] = [
   {
     pid: 2,
     risk: 3,
-    lpSymbol: 'BNB-BUSD LP',
+    lpSymbol: 'HAWK-BUSD POOL',
     lpAddresses: {
       97: '',
       56: '0x1b96b92314c44b159149f7e0303511fb2fc4774f',
     },
-    tokenSymbol: 'BNB',
+    tokenSymbol: 'HAWK',
     tokenAddresses: {
       97: '',
       56: '0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c',
