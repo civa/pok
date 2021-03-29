@@ -23,7 +23,7 @@ const config: MenuEntry[] = [
   {
     label: 'Hunt',
     icon: 'FarmIcon',
-    href: '/farms',
+    href: '/#/farms',
   },
   // {
   //  label: 'Nests',
