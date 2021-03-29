@@ -13,7 +13,7 @@ const farms: FarmConfig[] = [
     tokenSymbol: 'HAWK',
     tokenAddresses: {
       97: '',
-    56: '0xebcfd1376d68d9b2df66561cd519c5afccd65bf0',
+      56: '0xebcfd1376d68d9b2df66561cd519c5afccd65bf0',
     },
     quoteTokenSymbol: QuoteToken.BNB,
     quoteTokenAdresses: contracts.wbnb,
