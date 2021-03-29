@@ -12,11 +12,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'https://swap.hawkswap.finance',
+        href: '#',
       },
       {
         label: 'Liquidity',
-        href: 'https://swap.hawkswap.finance/#/pool',
+        href: '#',
       },
     ],
   },
