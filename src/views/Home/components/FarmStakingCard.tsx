@@ -16,7 +16,7 @@ import useAllEarnings from '../../../hooks/useAllEarnings'
 import { getBalanceNumber } from '../../../utils/formatBalance'
 
 const StyledFarmStakingCard = styled(Card)`
-  background-image: url('/images/hawk/hawklogocg.png');
+  background-image: url('/images/DRYCAKE/DRYCAKElogocg.png');
   background-repeat: no-repeat;
   background-position: top right;
   min-height: 376px;
@@ -71,14 +71,14 @@ const FarmedStakingCard = () => {
         <Heading size="xl" mb="24px">
           {TranslateString(542, 'Farms & Staking')}
         </Heading>
-        <CardImage src="/images/hawk/hawk-logo.png" alt="cake logo" width={64} height={64} />
+        <CardImage src="/images/DRYCAKE/DRYCAKE-logo.png" alt="cake logo" width={64} height={64} />
         <Block>
-          <Label>{TranslateString(544, 'HAWK to Harvest')}</Label>
+          <Label>{TranslateString(544, 'DRYCAKE to Harvest')}</Label>
           <CakeHarvestBalance earningsSum={earningsSum}/>
           <Label>~${(eggPrice * earningsSum).toFixed(2)}</Label>
         </Block>
         <Block>
-          <Label>{TranslateString(546, 'HAWK in Wallet')}</Label>
+          <Label>{TranslateString(546, 'DRYCAKE in Wallet')}</Label>
           <CakeWalletBalance cakeBalance={cakeBalance} />
           <Label>~${(eggPrice * cakeBalance).toFixed(2)}</Label>
         </Block>

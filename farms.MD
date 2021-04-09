@@ -5,12 +5,12 @@ const farms: FarmConfig[] = [
   {
     pid: 0,
     risk: 5,
-    lpSymbol: 'HAWK-BNB LP',
+    lpSymbol: 'DRYCAKE-BNB LP',
     lpAddresses: {
       97: '',
       56: '0x8eC8Db9Ebf1784b28EE081558c0B4a4c7480497B',
     },
-    tokenSymbol: 'HAWK',
+    tokenSymbol: 'DRYCAKE',
     tokenAddresses: {
       97: '',
     56: '0xebcfd1376d68d9b2df66561cd519c5afccd65bf0',
@@ -37,12 +37,12 @@ const farms: FarmConfig[] = [
   {
     pid: 1,
     risk: 3,
-    lpSymbol: 'HAWK-BUSD POOL',
+    lpSymbol: 'DRYCAKE-BUSD POOL',
     lpAddresses: {
       97: '',
       56: '0x3eD392E7c219de06F179B709F09436Fcc7142aFD',
     },
-    tokenSymbol: 'HAWK',
+    tokenSymbol: 'DRYCAKE',
     tokenAddresses: {
       97: '',
       56: '0xebcfd1376d68d9b2df66561cd519c5afccd65bf0',
