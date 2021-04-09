@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Tag, Flex, Heading, Image } from 'hawk-uikit'
+import { Tag, Flex, Heading, Image } from 'dry-uikit'
 import { CommunityTag, CoreTag, NoFeeTag, RiskTag } from 'components/Tags'
 
 export interface ExpandableSectionProps {

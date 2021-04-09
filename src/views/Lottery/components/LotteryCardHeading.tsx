@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Flex, Heading, Text } from 'hawk-uikit'
+import { Flex, Heading, Text } from 'dry-uikit'
 
 interface HeadingProps {
   valueToDisplay?: string

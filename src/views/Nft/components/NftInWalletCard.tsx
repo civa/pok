@@ -1,5 +1,5 @@
 import React from 'react'
-import { Card, CardBody, Heading, Text } from 'hawk-uikit'
+import { Card, CardBody, Heading, Text } from 'dry-uikit'
 import useI18n from 'hooks/useI18n'
 import CardContent from './CardContent'
 

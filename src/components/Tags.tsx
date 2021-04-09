@@ -1,5 +1,5 @@
 import React from 'react'
-import { Tag, VerifiedIcon, CommunityIcon, BinanceIcon } from 'hawk-uikit'
+import { Tag, VerifiedIcon, CommunityIcon, BinanceIcon } from 'dry-uikit'
 
 const NoFeeTag = () => (
   <Tag variant="success" outline startIcon={<VerifiedIcon />}>

@@ -1,4 +1,4 @@
-import { MenuEntry } from 'hawk-uikit'
+import { MenuEntry } from 'dry-uikit'
 
 const config: MenuEntry[] = [
   {

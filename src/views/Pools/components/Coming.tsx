@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Image, Button } from 'hawk-uikit'
+import { Image, Button } from 'dry-uikit'
 import { CommunityTag } from 'components/Tags'
 import useI18n from 'hooks/useI18n'
 import Card from './Card'
