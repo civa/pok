@@ -65,7 +65,7 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Github',
-        href: 'https://github.com/DRYCAKEswap',
+        href: 'https://github.com/DryCakeFi',
       },
     ],
   },
