@@ -50,8 +50,8 @@ const config: MenuEntry[] = [
     icon: 'InfoIcon',
     items: [
       {
-        label: 'BSCTrust Website',
-        href: 'https://bsctrust.finance/',
+        label: 'DryCake Website',
+        href: 'https://DryCake.finance/',
       },
       {
         label: 'Livecoinwatch',

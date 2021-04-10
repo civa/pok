@@ -21,12 +21,12 @@ const farms: FarmConfig[] = [
   {
     pid: 2,
     risk: 5,
-    lpSymbol: 'BSCTRUST-BUSD POOL',
+    lpSymbol: 'DryCake-BUSD POOL',
     lpAddresses: {
       97: '',
       56: '0x5293D72eA9f1695C33Ea2A871b928EA1a1b73ee7',
     },
-    tokenSymbol: 'BSCTRUST',
+    tokenSymbol: 'DryCake',
     tokenAddresses: {
       97: '',
       56: '0x0684ffcc67792c50fdc303813c7b0c00d6aa6b99',
