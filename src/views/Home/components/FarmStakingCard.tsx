@@ -74,7 +74,7 @@ const FarmedStakingCard = () => {
         <CardImage src="/images/DRYCAKE/DRYCAKE-logo.png" alt="cake logo" width={64} height={64} />
         <Block>
           <Label>{TranslateString(544, 'DRYCAKE to Harvest')}</Label>
-          <CakeHarvestBalance earningsSum={earningsSum}/>
+          <CakeHarvestBalance earningsSum={earningsSum} />
           <Label>~${(eggPrice * earningsSum).toFixed(2)}</Label>
         </Block>
         <Block>
