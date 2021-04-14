@@ -21,7 +21,7 @@ const config: MenuEntry[] = [
     ],
   },
   {
-    label: 'Hunt',
+    label: 'Farms',
     icon: 'FarmIcon',
     href: '/farms',
   },
@@ -54,8 +54,12 @@ const config: MenuEntry[] = [
         href: 'https://DryCake.finance/',
       },
       {
-        label: 'Livecoinwatch',
-        href: 'https://www.livecoinwatch.com/price/BSCTrustfinance-BSCTRUST',
+        label: 'HotBit',
+        href: 'https://www.hotbit.io/exchange?symbol=DRYCAKE_USDT',
+      },
+      {
+        label: 'BKEX',
+        href: 'https://www.hotbit.io/exchange?symbol=DRYCAKE_USDT',
       },
     ],
   },
