@@ -6097,6 +6097,17 @@ drbg.js@^1.0.1:
     create-hash "^1.1.2"
     create-hmac "^1.1.4"
 
+dry-uikit@^0.14.2:
+  version "0.14.2"
+  resolved "https://registry.yarnpkg.com/dry-uikit/-/dry-uikit-0.14.2.tgz#89f31a963db9f3df221aac2c42cfd92063844fe7"
+  integrity sha512-9osUkGd73fa/odYYzG9pZPCTF48pWFyLdIW1/iZHCMY3wBm2p/aGRbV23Ke6GxXMDJl4pxXQiLNhhtWwtXA6sA==
+  dependencies:
+    "@types/lodash" "^4.14.162"
+    "@types/styled-system" "^5.1.10"
+    lodash "^4.17.20"
+    react-transition-group "^4.4.1"
+    styled-system "^5.1.5"
+
 duplexer3@^0.1.4:
   version "0.1.4"
   resolved "https://registry.yarnpkg.com/duplexer3/-/duplexer3-0.1.4.tgz#ee01dd1cac0ed3cbc7fdbea37dc0a8f1ce002ce2"
@@ -8098,17 +8109,6 @@ hash.js@^1.0.0, hash.js@^1.0.3, hash.js@^1.1.7:
   dependencies:
     inherits "^2.0.3"
     minimalistic-assert "^1.0.1"
-
-dry-uikit@^0.12.2:
-  version "0.12.2"
-  resolved "https://registry.yarnpkg.com/dry-uikit/-/dry-uikit-0.12.2.tgz#09c9425a5a64d92acdfb3bc136f5f5cff92b78b9"
-  integrity sha512-wR8qqtbI/GkL5GhSakFnekYy6mXmuDYS7LyGlIGBIhESVCRVXfC/gC5Nydpx5cF4/V5fT5i/mRL5o/vaLlRsmw==
-  dependencies:
-    "@types/lodash" "^4.14.162"
-    "@types/styled-system" "^5.1.10"
-    lodash "^4.17.20"
-    react-transition-group "^4.4.1"
-    styled-system "^5.1.5"
 
 he@^1.2.0:
   version "1.2.0"
