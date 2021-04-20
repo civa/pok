@@ -5,12 +5,12 @@ const farms: FarmConfig[] = [
   {
     pid: 0,
     risk: 5,
-    lpSymbol: 'DRYCAKE-BNB LP',
+    lpSymbol: '24K-BNB LP',
     lpAddresses: {
       97: '',
       56: '0xc5bf6be173174e0beb384ba273be2b73085b5a5b',
     },
-    tokenSymbol: 'DRYCAKE',
+    tokenSymbol: '24K',
     tokenAddresses: {
       97: '',
       56: '0x7e5efa9a7ef1af00e73230df6dcac01ec2ddf59c',

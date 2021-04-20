@@ -5,12 +5,12 @@ const farms: FarmConfig[] = [
   {
     pid: 0,
     risk: 5,
-    lpSymbol: 'DRYCAKE-BNB LP',
+    lpSymbol: '24K-BNB LP',
     lpAddresses: {
       97: '',
       56: '0x8eC8Db9Ebf1784b28EE081558c0B4a4c7480497B',
     },
-    tokenSymbol: 'DRYCAKE',
+    tokenSymbol: '24K',
     tokenAddresses: {
       97: '',
     56: '0xebcfd1376d68d9b2df66561cd519c5afccd65bf0',
@@ -21,12 +21,12 @@ const farms: FarmConfig[] = [
   {
     pid: 2,
     risk: 5,
-    lpSymbol: 'DryCake-BUSD POOL',
+    lpSymbol: '24K-BUSD POOL',
     lpAddresses: {
       97: '',
       56: '0x5293D72eA9f1695C33Ea2A871b928EA1a1b73ee7',
     },
-    tokenSymbol: 'DryCake',
+    tokenSymbol: '24K',
     tokenAddresses: {
       97: '',
       56: '0x0684ffcc67792c50fdc303813c7b0c00d6aa6b99',
@@ -37,12 +37,12 @@ const farms: FarmConfig[] = [
   {
     pid: 1,
     risk: 3,
-    lpSymbol: 'DRYCAKE-BUSD POOL',
+    lpSymbol: '24K-BUSD POOL',
     lpAddresses: {
       97: '',
       56: '0x3eD392E7c219de06F179B709F09436Fcc7142aFD',
     },
-    tokenSymbol: 'DRYCAKE',
+    tokenSymbol: '24K',
     tokenAddresses: {
       97: '',
       56: '0xebcfd1376d68d9b2df66561cd519c5afccd65bf0',
