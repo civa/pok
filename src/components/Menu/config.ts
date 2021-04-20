@@ -1,4 +1,4 @@
-import { MenuEntry } from 'dry-uikit'
+import { MenuEntry } from '24testui'
 
 const config: MenuEntry[] = [
   {

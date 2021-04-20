@@ -1,5 +1,5 @@
 import React from 'react'
-import { Text } from 'dry-uikit'
+import { Text } from '24testui'
 import { getBalanceNumber } from 'utils/formatBalance'
 import { useTotalRewards } from 'hooks/useTickets'
 

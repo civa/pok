@@ -6097,9 +6097,9 @@ drbg.js@^1.0.1:
     create-hash "^1.1.2"
     create-hmac "^1.1.4"
 
-dry-uikit@^0.17.2:
+24testui@^0.17.2:
   version "0.17.2"
-  resolved "https://registry.yarnpkg.com/dry-uikit/-/dry-uikit-0.17.2.tgz#be114459aa9667144edffbd9a737cf236c555089"
+  resolved "https://registry.yarnpkg.com/24testui/-/24testui-0.17.2.tgz#be114459aa9667144edffbd9a737cf236c555089"
   integrity sha512-1KH5slZMMbwxykC9B110cgzFf4qkOKz/RZyywXONst7Nflelynn6OgVTEbOmxKsLN/+VQ9HqW58rYqoGlHGvCQ==
   dependencies:
     "@types/lodash" "^4.14.162"

@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from 'react'
 import { useCountUp } from 'react-countup'
-import { Text } from 'dry-uikit'
+import { Text } from '24testui'
 
 interface CardValueProps {
   value: number

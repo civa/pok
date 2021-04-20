@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Heading, Text, Flex } from 'dry-uikit'
+import { Heading, Text, Flex } from '24testui'
 
 interface IfoCardHeaderProps {
   ifoId: string

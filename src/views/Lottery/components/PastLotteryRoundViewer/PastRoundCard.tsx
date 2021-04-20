@@ -1,5 +1,5 @@
 import React from 'react'
-import { Card } from 'dry-uikit'
+import { Card } from '24testui'
 import { DataResponse } from 'utils/getLotteryRoundData'
 import PastRoundCardError from './PastRoundCardError'
 import PastRoundCardDetails from './PastRoundCardDetails'

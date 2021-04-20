@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Heading, Text } from 'dry-uikit'
+import { Heading, Text } from '24testui'
 import Container from 'components/layout/Container'
 import useI18n from 'hooks/useI18n'
 
