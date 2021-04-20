@@ -21,7 +21,7 @@ const config: MenuEntry[] = [
     ],
   },
   {
-    label: 'Farms',
+    label: 'Mine',
     icon: 'FarmIcon',
     href: '/farms',
   },
@@ -46,37 +46,19 @@ const config: MenuEntry[] = [
   //   href: '/nft',
   // },
   {
-    label: 'Info',
-    icon: 'InfoIcon',
-    items: [
-      {
-        label: 'DryCake Website',
-        href: 'https://DryCake.finance/',
-      },
-      {
-        label: 'HotBit',
-        href: 'https://www.hotbit.io/exchange?symbol=DRYCAKE_USDT',
-      },
-      {
-        label: 'BKEX',
-        href: 'https://www.hotbit.io/exchange?symbol=DRYCAKE_USDT',
-      },
-    ],
-  },
-  {
     label: 'More',
     icon: 'MoreIcon',
     items: [
       {
         label: 'Github',
-        href: 'https://github.com/DryCakeFi',
+        href: 'https://github.com/24kFinance',
       },
     ],
   },
   {
-    label: 'Partnership',
+    label: 'Audit',
     icon: 'GooseIcon',
-    href: 'https://docs.google.com/forms/d/e/1FAIpQLSeXOIhm3NfX064Y1oj251iXcwbAAB6DbMDrvsbo2G2vMnLppQ/viewform',
+    href: 'https://24kswap.finance/file/24k-swap.pdf',
   },
 ]
 
