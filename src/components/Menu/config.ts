@@ -12,11 +12,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'http://swap.drycake.finance/#/swap',
+        href: 'http://swap.24kswap.finance/#/swap',
       },
       {
         label: 'Liquidity',
-        href: 'http://swap.drycake.finance/#/pool',
+        href: 'http://swap.24kswap.finance/#/pool',
       },
     ],
   },
