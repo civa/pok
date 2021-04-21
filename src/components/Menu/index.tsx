@@ -25,7 +25,7 @@ const Menu = (props) => {
       setLang={setSelectedLanguage}
       cakePriceUsd={cakePriceUsd.toNumber()}
       links={config}
-      priceLink="https://www.bkex.com/trade/24K_USDT"
+      priceLink="https://swap.24kswap.finance/#/swap"
       {...props}
     />
   )
