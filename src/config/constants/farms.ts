@@ -8,12 +8,12 @@ const farms: FarmConfig[] = [
     lpSymbol: '24K-BNB LP',
     lpAddresses: {
       97: '',
-      56: '0x9d721713731493beca5e309ddbddfced50ee5c50',
+      56: '0x64e05d2b1d037e889ef53ea5dcb7cf85a7cb0693',
     },
     tokenSymbol: '24K',
     tokenAddresses: {
       97: '',
-      56: '0x6F3Cf80e90866Ee17Af465A710F18b612EB655f0',
+      56: '0x8f98867940fE0eb9d12De6AAE048402E6d14ED40',
     },
     quoteTokenSymbol: QuoteToken.BNB,
     quoteTokenAdresses: contracts.wbnb,
