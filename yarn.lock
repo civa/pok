@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"24testui@^2.2.9":
-  version "2.2.9"
-  resolved "https://registry.yarnpkg.com/24testui/-/24testui-2.2.9.tgz#b3416ee3a17c8996a227dbfea11c8318e1aa2ec0"
-  integrity sha512-qkSPnW1G9umTogdG7ucYbcMnUzgNyp4K6TcmWmffpcO583KO3WcZUO9Qn8rLu8WtB8MfMFPioo06c9iBLfel1A==
+"24testui@^2.3.10":
+  version "2.3.10"
+  resolved "https://registry.yarnpkg.com/24testui/-/24testui-2.3.10.tgz#86dde6ab9304f57dd44b0de3a6adc0bdf8fc4ecf"
+  integrity sha512-D64i5X7xs03nSFjmRta/pmVj7wUJfy7ZLBgCKXM4NTTTOo7c0LmbsgYU4iIGUy8HqpAxIV9BDU/Hw9mnDecvCQ==
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"

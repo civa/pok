@@ -22,6 +22,7 @@ const Hero = styled.div`
   text-align: center;
 
   ${({ theme }) => theme.mediaQueries.lg} {
+    background-image: url(/images/24/left.png), url(/images/24/right.png);
     background-position: left center, right center;
     height: 165px;
     padding-top: 0;

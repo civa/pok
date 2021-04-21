@@ -16,7 +16,7 @@ import useAllEarnings from '../../../hooks/useAllEarnings'
 import { getBalanceNumber } from '../../../utils/formatBalance'
 
 const StyledFarmStakingCard = styled(Card)`
-  background-image: url('/images/DRYCAKE/DRYCAKElogocg.png');
+  background-image: url('/images/24/24logobg.png');
   background-repeat: no-repeat;
   background-position: top right;
   min-height: 376px;
@@ -28,8 +28,8 @@ const Block = styled.div`
 
 const CardImage = styled.img`
   margin-bottom: 16px;
-  height: 39px;
-  width: 100px;
+  height: 64px;
+  width: 64px;
 `
 
 const Label = styled.div`
@@ -73,7 +73,7 @@ const FarmedStakingCard = () => {
         <Heading size="xl" mb="24px">
           {TranslateString(542, 'Farms & Staking')}
         </Heading>
-        <CardImage src="/images/dry/logo-2.png" alt="cake logo" width={64} height={64} />
+        <CardImage src="/images/24/logo.png" alt="cake logo" width={64} height={64} />
         <Block>
           <Label>{TranslateString(544, 'DRYCAKE to Harvest')}</Label>
           <CakeHarvestBalance earningsSum={earningsSum} />

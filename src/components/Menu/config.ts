@@ -62,7 +62,7 @@ const config: MenuEntry[] = [
   },
   {
     label: 'Audit',
-    icon: 'GooseIcon',
+    icon: 'AuditIcon',
     href: 'https://24kswap.finance/file/24k-swap.pdf',
   },
 ]
