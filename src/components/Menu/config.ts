@@ -65,6 +65,6 @@ const config: MenuEntry[] = [
 //    icon: 'AuditIcon',
 //    href: 'https://pokswap.finance/file/pok-swap.pdf',
 //  },
-// ]
+ ]
 
 export default config
