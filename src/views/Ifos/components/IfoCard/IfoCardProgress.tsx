@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Progress } from '24testui'
+import { Progress } from 'pok-ui'
 
 interface IfoCardProgressProps {
   progress: number

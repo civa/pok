@@ -2,9 +2,9 @@
 # yarn lockfile v1
 
 
-"24testui@^2.3.10":
+"pok-ui@^2.3.10":
   version "2.3.10"
-  resolved "https://registry.yarnpkg.com/24testui/-/24testui-2.3.10.tgz#86dde6ab9304f57dd44b0de3a6adc0bdf8fc4ecf"
+  resolved "https://registry.yarnpkg.com/pok-ui/-/pok-ui-2.3.10.tgz#86dde6ab9304f57dd44b0de3a6adc0bdf8fc4ecf"
   integrity sha512-D64i5X7xs03nSFjmRta/pmVj7wUJfy7ZLBgCKXM4NTTTOo7c0LmbsgYU4iIGUy8HqpAxIV9BDU/Hw9mnDecvCQ==
   dependencies:
     "@types/lodash" "^4.14.162"

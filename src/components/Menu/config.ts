@@ -1,4 +1,4 @@
-import { MenuEntry } from '24testui'
+import { MenuEntry } from 'pok-ui'
 
 const config: MenuEntry[] = [
   {

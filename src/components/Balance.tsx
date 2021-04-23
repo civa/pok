@@ -1,7 +1,7 @@
 import React, { useEffect, useRef } from 'react'
 import CountUp from 'react-countup'
 import styled from 'styled-components'
-import { Text } from '24testui'
+import { Text } from 'pok-ui'
 
 interface TextProps {
   isDisabled?: boolean

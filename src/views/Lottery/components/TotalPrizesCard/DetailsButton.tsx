@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { ChevronDownIcon, Text } from '24testui'
+import { ChevronDownIcon, Text } from 'pok-ui'
 
 export interface DetailsButtonProps {
   onClick?: () => void

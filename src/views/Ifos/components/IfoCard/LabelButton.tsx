@@ -1,6 +1,6 @@
 import React, { ButtonHTMLAttributes } from 'react'
 import styled from 'styled-components'
-import { Button, Text } from '24testui'
+import { Button, Text } from 'pok-ui'
 
 interface Props extends ButtonHTMLAttributes<HTMLButtonElement> {
   value: string

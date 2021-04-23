@@ -1,5 +1,5 @@
 import React from 'react'
-import { Text } from '24testui'
+import { Text } from 'pok-ui'
 
 interface PastRoundCardErrorProps {
   error: {

@@ -1,5 +1,5 @@
 import React from 'react'
-import { Card } from '24testui'
+import { Card } from 'pok-ui'
 import { DataResponse } from 'utils/getLotteryRoundData'
 import PastRoundCardError from './PastRoundCardError'
 import PastRoundCardDetails from './PastRoundCardDetails'

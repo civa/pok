@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from 'react'
 import { useCountUp } from 'react-countup'
-import { Text } from '24testui'
+import { Text } from 'pok-ui'
 
 interface CardValueProps {
   value: number
