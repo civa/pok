@@ -32,16 +32,16 @@ const CakeStats = () => {
   const cakeSupply = getBalanceNumber(circSupply)
   const marketCap = eggPrice.times(circSupply)
 
-  let s24kPerBlock = 0
-  if (farms && farms[0] && farms[0].s24kPerBlock) {
-    s24kPerBlock = new BigNumber(farms[0].s24kPerBlock).div(new BigNumber(10).pow(18)).toNumber()
+  let spokPerBlock = 0
+  if (farms && farms[0] && farms[0].spokPerBlock) {
+    spokPerBlock = new BigNumber(farms[0].spokPerBlock).div(new BigNumber(10).pow(18)).toNumber()
   }
 
   return (
     <StyledCakeStats>
       <CardBody>
         <Heading size="xl" mb="24px">
-          {TranslateString(534, '24K Stats')}
+          {TranslateString(534, 'POK Stats')}
         </Heading>
         <Row>
           <Text fontSize="14px">{TranslateString(10005, 'Market Cap')}</Text>
@@ -60,9 +60,9 @@ const CakeStats = () => {
           {cakeSupply && <CardValue fontSize="14px" value={cakeSupply} decimals={0} />}
         </Row>
         <Row>
-          <Text fontSize="14px">{TranslateString(540, 'New 24K/block')}</Text>
+          <Text fontSize="14px">{TranslateString(540, 'New POK/block')}</Text>
           <Text bold fontSize="14px">
-            {s24kPerBlock}
+            {spokPerBlock}
           </Text>
         </Row>
       </CardBody>

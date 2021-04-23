@@ -12,11 +12,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'http://swap.24kswap.finance/#/swap',
+        href: 'http://swap.pokswap.finance/#/swap',
       },
       {
         label: 'Liquidity',
-        href: 'http://swap.24kswap.finance/#/pool',
+        href: 'http://swap.pokswap.finance/#/pool',
       },
     ],
   },
@@ -56,14 +56,14 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Github',
-        href: 'https://github.com/24kFinance',
+        href: 'https://github.com/pokFinance',
       },
     ],
   },
   {
     label: 'Audit',
     icon: 'AuditIcon',
-    href: 'https://24kswap.finance/file/24k-swap.pdf',
+    href: 'https://pokswap.finance/file/pok-swap.pdf',
   },
 ]
 

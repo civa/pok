@@ -3,7 +3,7 @@ import { PoolConfig, QuoteToken, PoolCategory } from './types'
 const pools: PoolConfig[] = [
   {
     sousId: 0,
-    tokenName: '24K',
+    tokenName: 'POK',
     stakingTokenName: QuoteToken.CAKE,
     stakingTokenAddress: '0x6F3Cf80e90866Ee17Af465A710F18b612EB655f0',
     contractAddress: {
@@ -11,7 +11,7 @@ const pools: PoolConfig[] = [
       56: '0x8ce454309145306609037da2a24C55362C7166D7',
     },
     poolCategory: PoolCategory.CORE,
-    projectLink: 'https://24kswap.finance/',
+    projectLink: 'https://pokswap.finance/',
     harvest: true,
     tokenPerBlock: '10',
     sortOrder: 1,
