@@ -60,11 +60,11 @@ const config: MenuEntry[] = [
       },
     ],
   },
-//  {
-//    label: 'Audit',
-//    icon: 'AuditIcon',
-//    href: 'https://pokswap.finance/file/pok-swap.pdf',
-//  },
- ]
+  //  {
+  //    label: 'Audit',
+  //    icon: 'AuditIcon',
+  //    href: 'https://pokswap.finance/file/pok-swap.pdf',
+  //  },
+]
 
 export default config
