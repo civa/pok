@@ -12,11 +12,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'http://swap.pokswap.finance/#/swap',
+        href: 'https://swap.pokfans.com/#/swap',
       },
       {
         label: 'Liquidity',
-        href: 'http://swap.pokswap.finance/#/pool',
+        href: 'https://swap.pokfans.com/#/pool',
       },
     ],
   },
