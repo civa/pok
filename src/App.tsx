@@ -56,10 +56,10 @@ const App: React.FC = () => {
             {/* </Route> */}
             {/* <Route path="/lottery"> */}
             {/*  <Lottery /> */}
-            {/* </Route> */}
+             {/ </Route> /}
             {/ <Route path="/ifo"> /}
             {/  <Ifos /> /}
-            {/* </Route> */}
+            {/ </Route> /}
             {/* <Route path="/nft"> */}
             {/*  <Nft /> */}
             {/* </Route> */}
