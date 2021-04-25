@@ -32,9 +32,9 @@ const CakeStats = () => {
   const cakeSupply = getBalanceNumber(circSupply)
   const marketCap = eggPrice.times(circSupply)
 
-  let spokPerBlock = 0
-  if (farms && farms[0] && farms[0].spokPerBlock) {
-    spokPerBlock = new BigNumber(farms[0].spokPerBlock).div(new BigNumber(10).pow(18)).toNumber()
+  let pokPerBlock = 0
+  if (farms && farms[0] && farms[0].pokPerBlock) {
+    pokPerBlock = new BigNumber(farms[0].pokPerBlock).div(new BigNumber(10).pow(18)).toNumber()
   }
 
   return (
@@ -62,7 +62,7 @@ const CakeStats = () => {
         <Row>
           <Text fontSize="14px">{TranslateString(540, 'New POK/block')}</Text>
           <Text bold fontSize="14px">
-            {spokPerBlock}
+            {pokPerBlock}
           </Text>
         </Row>
       </CardBody>

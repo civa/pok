@@ -2,8 +2,8 @@
   {
     "inputs": [
       {
-        "internalType": "contract spokToken",
-        "name": "_spok",
+        "internalType": "contract pokToken",
+        "name": "_pok",
         "type": "address"
       },
       {
@@ -18,7 +18,7 @@
       },
       {
         "internalType": "uint256",
-        "name": "_spokPerBlock",
+        "name": "_pokPerBlock",
         "type": "uint256"
       },
       {
@@ -154,10 +154,10 @@
   },
   {
     "inputs": [],
-    "name": "spok",
+    "name": "pok",
     "outputs": [
       {
-        "internalType": "contract spokToken",
+        "internalType": "contract pokToken",
         "name": "",
         "type": "address"
       }
@@ -168,7 +168,7 @@
   },
   {
     "inputs": [],
-    "name": "spokPerBlock",
+    "name": "pokPerBlock",
     "outputs": [
       {
         "internalType": "uint256",
@@ -235,7 +235,7 @@
       },
       {
         "internalType": "uint256",
-        "name": "accspokPerShare",
+        "name": "accpokPerShare",
         "type": "uint256"
       },
       {
@@ -434,7 +434,7 @@
         "type": "address"
       }
     ],
-    "name": "pendingspok",
+    "name": "pendingpok",
     "outputs": [
       {
         "internalType": "uint256",
@@ -545,7 +545,7 @@
     "inputs": [
       {
         "internalType": "uint256",
-        "name": "_spokPerBlock",
+        "name": "_pokPerBlock",
         "type": "uint256"
       }
     ],
