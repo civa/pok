@@ -4,7 +4,7 @@ const pools: PoolConfig[] = [
   {
     sousId: 0,
     tokenName: 'POK',
-    stakingTokenName: QuoteToken.CAKE,
+    stakingTokenName: QuoteToken.POK,
     stakingTokenAddress: '0x3b7c8ca664ab6eb8ca8f424851e38b7182b36e5f',
     contractAddress: {
       97: '0xd3af5fe61dbaf8f73149bfcfa9fb653ff096029a',
