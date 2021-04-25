@@ -8,7 +8,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'POK-BNB LP',
     lpAddresses: {
       97: '',
-      56: '0x56ab62066530d25d806966bb30c6ccf53aa84991',
+      56: '0x769f78cf639501f4e8677d74141969bbc161b51e',
     },
     tokenSymbol: 'POK',
     tokenAddresses: {
