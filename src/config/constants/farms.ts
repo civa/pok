@@ -29,7 +29,7 @@ const farms: FarmConfig[] = [
     tokenSymbol: 'POK',
     tokenAddresses: {
       97: '',
-      56: '0xe9e7cea3dedca5984780bafc599bd69add087d56',
+      56: '0x3b7c8cA664AB6Eb8cA8F424851E38B7182b36e5f',
     },
     quoteTokenSymbol: QuoteToken.BUSD,
     quoteTokenAdresses: contracts.busd,
