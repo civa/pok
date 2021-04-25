@@ -8,12 +8,12 @@ const farms: FarmConfig[] = [
     lpSymbol: 'POK-BNB LP',
     lpAddresses: {
       97: '',
-      56: '0x769f78cf639501f4e8677d74141969bbc161b51e',
+      56: '0x769f78cF639501F4E8677D74141969BBc161B51E',
     },
     tokenSymbol: 'POK',
     tokenAddresses: {
       97: '',
-      56: '0x3b7c8ca664ab6eb8ca8f424851e38b7182b36e5f',
+      56: '0x3b7c8cA664AB6Eb8cA8F424851E38B7182b36e5f',
     },
     quoteTokenSymbol: QuoteToken.BNB,
     quoteTokenAdresses: contracts.wbnb,
