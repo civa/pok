@@ -5,10 +5,10 @@ const pools: PoolConfig[] = [
     sousId: 0,
     tokenName: 'POK',
     stakingTokenName: QuoteToken.CAKE,
-    stakingTokenAddress: '0x6F3Cf80e90866Ee17Af465A710F18b612EB655f0',
+    stakingTokenAddress: '0x3b7c8ca664ab6eb8ca8f424851e38b7182b36e5f',
     contractAddress: {
       97: '0xd3af5fe61dbaf8f73149bfcfa9fb653ff096029a',
-      56: '0x8ce454309145306609037da2a24C55362C7166D7',
+      56: '0x3195a1617C70AC263ab19Cf9a372a168AffB9EB0',
     },
     poolCategory: PoolCategory.CORE,
     projectLink: 'https://pokswap.finance/',
