@@ -21,7 +21,7 @@ const farms: FarmConfig[] = [
   {
     pid: 1,
     risk: 5,
-    lpSymbol: 'POK-BUSD LP',
+    lpSymbol: 'V2 - POK-BUSD LP',
     lpAddresses: {
       97: '',
       56: '0x99f66f309af4523a00230abfcca9895d1ae75917',
@@ -37,7 +37,7 @@ const farms: FarmConfig[] = [
   {
     pid: 2,
     risk: 5,
-    lpSymbol: 'BNB-BUSD LP',
+    lpSymbol: 'v2 - BNB-BUSD LP',
     lpAddresses: {
       97: '',
       56: '0x58f876857a02d6762e0101bb5c46a8c1ed44dc16',
