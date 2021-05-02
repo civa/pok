@@ -51,12 +51,16 @@ const config: MenuEntry[] = [
   //   href: '/nft',
   // },
   {
-    label: 'More',
+    label: 'Info',
     icon: 'MoreIcon',
     items: [
       {
         label: 'Github',
         href: 'https://github.com/pokFinance',
+      },
+      {
+        label: 'Bscscan',
+        href: 'https://bscscan.com/token/0x3b7c8ca664ab6eb8ca8f424851e38b7182b36e5f',
       },
     ],
   },
