@@ -11,7 +11,7 @@ const pools: PoolConfig[] = [
       56: '0x3195a1617C70AC263ab19Cf9a372a168AffB9EB0',
     },
     poolCategory: PoolCategory.CORE,
-    projectLink: 'https://pokswap.finance/',
+    projectLink: 'https://pokswap.com/',
     harvest: true,
     tokenPerBlock: '10',
     sortOrder: 1,
