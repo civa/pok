@@ -2,6 +2,22 @@ import contracts from './contracts'
 import { FarmConfig, QuoteToken } from './types'
 
 const farms: FarmConfig[] = [
+    {
+    pid: 3,
+    risk: 5,
+    lpSymbol: 'POK POOL',
+    lpAddresses: {
+      97: '',
+      56: '0x3b7c8ca664ab6eb8ca8f424851e38b7182b36e5f',
+    },
+    tokenSymbol: 'POK',
+    tokenAddresses: {
+      97: '',
+      56: '0x3b7c8ca664ab6eb8ca8f424851e38b7182b36e5f',
+    },
+    quoteTokenSymbol: QuoteToken.BUSD,
+    quoteTokenAdresses: contracts.busd,
+  },
   {
     pid: 0,
     risk: 5,
@@ -50,22 +66,7 @@ const farms: FarmConfig[] = [
     quoteTokenSymbol: QuoteToken.BUSD,
     quoteTokenAdresses: contracts.busd,
   },
-  {
-    pid: 3,
-    risk: 5,
-    lpSymbol: 'POK',
-    lpAddresses: {
-      97: '',
-      56: '0x3b7c8ca664ab6eb8ca8f424851e38b7182b36e5f',
-    },
-    tokenSymbol: 'BNB',
-    tokenAddresses: {
-      97: '',
-      56: '0x3b7c8ca664ab6eb8ca8f424851e38b7182b36e5f',
-    },
-    quoteTokenSymbol: QuoteToken.BUSD,
-    quoteTokenAdresses: contracts.busd,
-  },
+
 ]
 
 export default farms
