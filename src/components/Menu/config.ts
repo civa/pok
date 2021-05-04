@@ -21,14 +21,9 @@ const config: MenuEntry[] = [
     ],
   },
   {
-    label: 'Farm',
+    label: 'Staking',
     icon: 'FarmIcon',
     href: '/farms',
-  },
-  {
-    label: 'Pools',
-    icon: 'PoolIcon',
-    href: '/pools',
   },
   // {
   //  label: 'poolss',
