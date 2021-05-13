@@ -5,51 +5,20 @@ const farms: FarmConfig[] = [
   {
     pid: 0,
     risk: 5,
-    lpSymbol: 'POK-BNB LP',
+    lpSymbol: 'POK-BUSD LP',
     lpAddresses: {
       97: '',
-      56: '0x769f78cF639501F4E8677D74141969BBc161B51E',
+      56: '0x1847603673f463a5b91105dceddb31f73e557457',
     },
     tokenSymbol: 'POK',
     tokenAddresses: {
       97: '',
-      56: '0x3b7c8cA664AB6Eb8cA8F424851E38B7182b36e5f',
-    },
-    quoteTokenSymbol: QuoteToken.BNB,
-    quoteTokenAdresses: contracts.wbnb,
-  },
-  {
-    pid: 1,
-    risk: 5,
-    lpSymbol: 'V2 - POK-BUSD LP',
-    lpAddresses: {
-      97: '',
-      56: '0x99f66f309af4523a00230abfcca9895d1ae75917',
-    },
-    tokenSymbol: 'POK',
-    tokenAddresses: {
-      97: '',
-      56: '0x3b7c8cA664AB6Eb8cA8F424851E38B7182b36e5f',
+      56: '0xcf951d41c096aa3750ee1943c9b62e3b0977fd35',
     },
     quoteTokenSymbol: QuoteToken.BUSD,
     quoteTokenAdresses: contracts.busd,
   },
-  {
-    pid: 2,
-    risk: 5,
-    lpSymbol: 'v2 - BNB-BUSD LP',
-    lpAddresses: {
-      97: '',
-      56: '0x58f876857a02d6762e0101bb5c46a8c1ed44dc16',
-    },
-    tokenSymbol: 'BNB',
-    tokenAddresses: {
-      97: '',
-      56: '0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c',
-    },
-    quoteTokenSymbol: QuoteToken.BUSD,
-    quoteTokenAdresses: contracts.busd,
-  },
+
 
 ]
 
