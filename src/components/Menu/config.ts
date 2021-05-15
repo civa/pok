@@ -55,7 +55,7 @@ const config: MenuEntry[] = [
       },
       {
         label: 'Bscscan',
-        href: 'https://bscscan.com/token/0x3b7c8ca664ab6eb8ca8f424851e38b7182b36e5f',
+        href: 'https://bscscan.com/token/0xcf951d41c096aa3750ee1943c9b62e3b0977fd35',
       },
     ],
   },
