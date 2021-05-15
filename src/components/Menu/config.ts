@@ -40,11 +40,11 @@ const config: MenuEntry[] = [
   //   icon: 'TicketIcon',
   //   href: '/lottery',
   // },
-  // {
-  //   label: 'NFT',
-  //   icon: 'NftIcon',
-  //   href: '/nft',
-  // },
+ {
+   label: 'Farm Application',
+   icon: 'NftIcon',
+   href: 'https://forms.gle/SWcgmD5yWkDaEFBw9',
+ },
   {
     label: 'Info',
     icon: 'MoreIcon',
