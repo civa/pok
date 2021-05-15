@@ -51,7 +51,7 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Github',
-        href: 'https://github.com/pokFinance',
+        href: 'https://github.com/pokfans',
       },
       {
         label: 'Bscscan',
